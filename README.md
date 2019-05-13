@@ -4,6 +4,10 @@ Script to divide blocks of a large XML file into several files with Python.
 
 > Built and tested with Python 3.7+
 
+## Install
+
+Please use virtualenv if you don't want to add dependencies to your global python install: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+
 ## Usage
 
 ```sh
